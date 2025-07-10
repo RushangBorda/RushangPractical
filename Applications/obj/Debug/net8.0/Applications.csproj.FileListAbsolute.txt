@@ -1,0 +1,45 @@
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Project\RushangPractical\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\User\Downloads\Project\RushangPractical\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\User\Downloads\Project\RushangPractical\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\User\Downloads\Project\RushangPractical\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\User\Downloads\Project\RushangPractical\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\User\Downloads\Project\RushangPractical\Applications\obj\Debug\net8.0\ref\Applications.dll
+E:\New folder\RushangPractical_1\Applications\bin\Debug\net8.0\Applications.deps.json
+E:\New folder\RushangPractical_1\Applications\bin\Debug\net8.0\Applications.dll
+E:\New folder\RushangPractical_1\Applications\bin\Debug\net8.0\Applications.pdb
+E:\New folder\RushangPractical_1\Applications\bin\Debug\net8.0\Infrastructure.dll
+E:\New folder\RushangPractical_1\Applications\bin\Debug\net8.0\Infrastructure.pdb
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.dll
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\refint\Applications.dll
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\Applications.pdb
+E:\New folder\RushangPractical_1\Applications\obj\Debug\net8.0\ref\Applications.dll
+E:\New folder\RushangPractical\Applications\bin\Debug\net8.0\Applications.deps.json
+E:\New folder\RushangPractical\Applications\bin\Debug\net8.0\Applications.dll
+E:\New folder\RushangPractical\Applications\bin\Debug\net8.0\Applications.pdb
+E:\New folder\RushangPractical\Applications\bin\Debug\net8.0\Infrastructure.dll
+E:\New folder\RushangPractical\Applications\bin\Debug\net8.0\Infrastructure.pdb
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.dll
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\refint\Applications.dll
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\Applications.pdb
+E:\New folder\RushangPractical\Applications\obj\Debug\net8.0\ref\Applications.dll
